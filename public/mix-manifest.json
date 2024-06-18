@@ -1,0 +1,17 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/js/firebase-config.js": "/js/firebase-config.js",
+    "/js/login.js": "/js/login.js",
+    "/js/logout.js": "/js/logout.js",
+    "/js/register.js": "/js/register.js",
+    "/js/upload.js": "/js/upload.js",
+    "/js/ad.js": "/js/ad.js",
+    "/js/search.js": "/js/search.js",
+    "/css/app.css": "/css/app.css",
+    "/index.html": "/index.html",
+    "/upload.html": "/upload.html",
+    "/login.html": "/login.html",
+    "/register.html": "/register.html",
+    "/admin.html": "/admin.html",
+    "/ad.html": "/ad.html"
+}
